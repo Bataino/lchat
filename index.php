@@ -6,10 +6,10 @@
   <body onload="load()">
     <script>
       function load(){
-        location.href = '#mobile-widget';
+        //location.href = '#mobile-widget';
       }
     </script>
-    <script src="https://widget-v4.tidiochat.com//1_45_0/static/js/widget.66f097c8c651f346d9e7.js" async></script>
+    <script src="//code.tidio.co/iunyqqxfscfakenjcreqr2qehdtozzi4.js" async></script>
       <!-- Swap your javascript code above -->
      <script>
          (function() {
